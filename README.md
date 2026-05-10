@@ -1,6 +1,9 @@
 # WeatherSnap 🌤️📸
 **WeatherSnap** is a modern, fully-featured Android application built with Jetpack Compose that allows users to check real-time weather conditions for any city globally and capture "weather reports" containing camera evidence and field notes. All reports are saved locally for offline viewing.
 
+## 📥 Download App
+[Download APK](https://drive.google.com/file/d/1Iz1KyoydFV74xih7kgUdE5NuDT7Bjltx/view?usp=drivesdk)
+
 ## 🚀 Features
 - **Live City Search:** Search for any city worldwide with instant, debounced suggestions powered by the Open-Meteo Geocoding API.
 - **Real-time Weather Data:** View accurate current temperature, weather conditions, humidity, wind speed, and pressure.
@@ -51,6 +54,7 @@ Scroll through a persistent list of all historically saved weather reports, comp
 | |
 |:---:|
 | <img src="https://github.com/user-attachments/assets/68a84ac1-0227-4591-ab0a-14e97f6c4a5e" width="200"/> |
+
 ## ⚙️ How to Build and Run
 1. Clone this repository: `git clone https://github.com/JauharAnsari/WeatherSnap.git`
 2. Open the project in **Android Studio**.
